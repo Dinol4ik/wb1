@@ -41,7 +41,7 @@ func main() {
 	// обращение к полям структуру Human
 	fmt.Println(act.H.Name) // cj
 	// можно обратится сразу к полям структуры Human если поле уникальное
-	fmt.Println(act.mail)
+	fmt.Println(act.mail) // spiritWinTi2023@dita.ru
 
 	// обращения к методам структуры
 	act.setActName("john")
